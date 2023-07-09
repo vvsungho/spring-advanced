@@ -21,6 +21,6 @@ public class OrderServiceV4 {
       }
     };
 
-    abstractTemplate.execute("OrderServiceV4.orderItem()");
+    abstractTemplate.execute("OrderServiceV5.orderItem()");
   }
 }

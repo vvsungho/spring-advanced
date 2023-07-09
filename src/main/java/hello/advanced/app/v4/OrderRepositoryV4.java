@@ -25,7 +25,7 @@ public class OrderRepositoryV4 {
       }
     };
 
-    abstractTemplate.execute("OrderRepositoryV4.save(");
+    abstractTemplate.execute("OrderRepositoryV5.save(");
   }
 
   private void sleep(int millis) {

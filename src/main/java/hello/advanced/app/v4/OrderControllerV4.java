@@ -23,6 +23,6 @@ public class OrderControllerV4 {
       }
     };
 
-    return abstractTemplate.execute("OrderControllerV4.request()");
+    return abstractTemplate.execute("OrderControllerV5.request()");
   }
 }
